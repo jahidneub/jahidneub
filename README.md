@@ -1,8 +1,10 @@
+![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/jahidneub/jahidneub/assets/153955082/e07254de-c305-4e30-974f-afbc568ceeb6)
+
 - 👋 Hi, I’m @jahidneub
-- 👀 I’m interested in solving complex problem
-- 🌱 I’m currently learning c++
-- 💞️ I’m 
-![Dark Red Neon Futuristic Instagram Profile Picture](https://github.com/jahidneub/jahidneub/assets/153955082/59e44dd6-0b68-496c-aa63-ffed0065ed72)
+- 👀 I’m interested in solving complex problem.
+- 🌱 I’m currently learning c++ .
+
+
 
 <!---
 jahidneub/jahidneub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
