@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @jahidneub
 - 👀 I’m interested in solving complex problem.
-- 🌱 I’m currently learning c++ .
+- 🌱 I’m currently learning JAVA .
 
 
 
