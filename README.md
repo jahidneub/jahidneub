@@ -1,6 +1,6 @@
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/jahidneub/jahidneub/assets/153955082/e07254de-c305-4e30-974f-afbc568ceeb6)
 
-- 👋 Hi, I’m @jahidneub
+- 👋 Hi, I’m Jahid hasan 
 - 👀 I’m interested in solving complex problem.
 - 🌱 I’m currently learning JAVA .
 
